@@ -41,7 +41,7 @@ yarn build
 
 ## 📝 License
 
-Copyright (c) 2023 - Present, Designed & Developed by [joaovittorcesar](https://github.com/joaovittorcesar)
+Copyright (c) 2024 - Present, Designed & Developed by [joaovittorcesar](https://github.com/joaovittorcesar)
 
 **Code License:** Released under the MIT license.
 <br><br>
